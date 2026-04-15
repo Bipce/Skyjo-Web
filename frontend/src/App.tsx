@@ -1,12 +1,5 @@
-import './App.css'
-
 function App() {
-
-  return (
-    <>
-      Front
-    </>
-  )
+  return <div className="flex justify-between text-2xl font-bold">Front</div>;
 }
 
-export default App
+export default App;
